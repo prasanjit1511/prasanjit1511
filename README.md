@@ -2,6 +2,9 @@
 <img align="right" alt="Coding" width="1000" height="350" src="https://storage.googleapis.com/pai-images/951353fa58a84878b0dd8072ae57bf7e.jpeg">
 
 <h1 align="center">Hi 👋, I'm Prasanjit Kumer Roy</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 <h3 align="center">A Passionate Software Developer From Bangladesh</h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
