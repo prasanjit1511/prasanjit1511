@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="1000" height="350" src="https://storage.googleapis.com/pai-images/951353fa58a84878b0dd8072ae57bf7e.jpeg">
+<img align="right" alt="Coding" width="1000" height="350" src="https://images.unsplash.com/photo-1618044619888-009e412ff12a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fHww">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prasanjit+Kumer+Roy!;" />
